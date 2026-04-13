@@ -38,13 +38,13 @@ Financial institutions need to evaluate risk factors such as volatility, returns
 ## 📈 Visual Insights
 
 ### 📊 Account Balance Distribution
-![Account Balance Distribution](Account-Balance-Distribution.png)
+![Account Balance Distribution](Account_Balance_Distribution.png)
 
 ### 📊 Average Balance by Account Type
-![Average Balance](Average-Balance-By-Account-Type.png)
+![Average Balance](Average_Balance_By_Account_Type.png)
 
 ### 📊 Outlier Detection
-![Outlier Detection](Outlier-Detection.png)
+![Outlier Detection](Outlier_Detection.png)
 
 📁 Files Included
 	•	financial_risk_analysis.ipynb → Python notebook
