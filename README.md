@@ -35,21 +35,26 @@ Financial institutions need to evaluate risk factors such as volatility, returns
 	•	Identification of high-risk events
 	•	Trend analysis using visualizations
   
-📈 Visual Insights
+## 📈 Visual Insights
 
-📈 Price Trend
-📉 Risk Analysis
-📊 Returns Trend
+### 📊 Account Balance Distribution
+![Account Balance Distribution](account-balance-distribution.png)
+
+### 📊 Average Balance by Account Type
+![Average Balance](avg-balance-by-account-type.png)
+
+### 📊 Outlier Detection
+![Outlier Detection](outlier-detection.png)
 
 📁 Files Included
 	•	financial_risk_analysis.ipynb → Python notebook
 	•	dataset.csv → Input data
-	•	returns.png → Returns visualization
-	•	risk.png → Risk chart
+	•	financial_Risk_Identification.ipynb → Python notebook
+	•	Visualization.ipynb → Python notebook
 
   🎯 Key Insights
 	•	Identified high volatility periods
-	•	Highlighted risky assets
+	•	Highlighted risky events
 	•	Observed trends in financial performance
 
   🚀 Future Improvements
